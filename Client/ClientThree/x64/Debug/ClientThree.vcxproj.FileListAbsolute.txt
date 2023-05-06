@@ -1,0 +1,6 @@
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.IPort.resources
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.Registration.resources
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.vcxproj.GenerateResource.cache
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.vcxproj.AssemblyReference.cache
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\x64\Debug\ClientThree.Chat.resources

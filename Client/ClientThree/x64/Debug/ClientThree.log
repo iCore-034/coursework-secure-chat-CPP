@@ -1,0 +1,5 @@
+﻿  StartClient.cpp
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\Registration.h(222,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Romanticore\source\repos\ClientThree\ClientThree\Chat.h(248,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pch.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ClientThree.vcxproj -> C:\Users\Romanticore\source\repos\ClientThree\x64\Debug\ClientThree.exe
